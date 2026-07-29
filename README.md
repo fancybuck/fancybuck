@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <h2>𝓓𝓻𝓲𝓿𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓶𝔂 𝓭𝓪𝓻𝓵𝓲𝓷𝓰</h2>
-
+<body>
 <h1>
   <a href="" class="typewrite" data-period="2000" data-type='[ "Hi, Im Si.", "I am Creative.", "I Love Design.", "I Love to Develop." ]'>
     <span class="wrap"></span>
@@ -75,5 +75,5 @@ var TxtType = function(el, toRotate, period) {
         document.body.appendChild(css);
     };
 
-
+</body>
 </html>
