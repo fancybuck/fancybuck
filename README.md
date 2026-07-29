@@ -6,7 +6,7 @@
     <span class="wrap"></span>
   </a>
 </h1>
-
+<style>
 body {
   background-color:#ce3635;
   text-align: center;
@@ -27,6 +27,7 @@ var TxtType = function(el, toRotate, period) {
         this.tick();
         this.isDeleting = false;
     };
+    </style>
 
     TxtType.prototype.tick = function() {
         var i = this.loopNum % this.toRotate.length;
