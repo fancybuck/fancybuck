@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&size=32&duration=4000&pause=900&color=43BB88&background=0D111700&center=true&vCenter=true&width=435&lines=You+know+you're+bright+as+the+morning;..+as+soft+as+the+rain;Pretty+as+a+vine%2C+as+sweet+as+a+grape" alt="Typing SVG" /></a>
 
-<img width="736" height="916" alt="258hvzrj8a4h1" src="https://github.com/user-attachments/assets/9bbd0b03-9f17-487c-96ee-e59bcedea126" />
 
 
 <p align="center">
