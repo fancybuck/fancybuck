@@ -29,7 +29,7 @@ wip!
 
 <img width="20" height="20" alt="232" src="https://github.com/user-attachments/assets/fa110054-2688-425a-b572-65b06169c283" />
 
-call me ann :p
+henlo :p
 
 i sit in pony town mainly while doing something offtab, sort of body doubling? so feel free to sit next to me anytime!
 
