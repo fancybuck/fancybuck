@@ -1,8 +1,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=fancybuck&color=c7a130)
 -->
-wip!
-
-
 
 
 <div align="center">
@@ -33,13 +30,18 @@ henlo :p
 
 i sit in pony town mainly while doing something offtab, sort of body doubling? so feel free to sit next to me anytime!
 
+not really talkative
 
-if you see my skins without my github attached, it's NOT me
+if you see my skins without my github attached, it's not me
 
 <!--that triangle guy didn't pay me a penny for his ad, DON'T LISTEN TO HIM!!!-->
 
 <br>
 <br>
+<br>
+<br>
+
+
 
 <img width="150" height="20" alt="blinkie-KILLCRINGE" src="https://github.com/user-attachments/assets/acad2827-5980-4b58-b5c8-32911f2dafcc" />
 <img width="150" height="20" alt="blnk-13" src="https://github.com/user-attachments/assets/531e6301-8a7e-4b4a-812b-92b609328ea6" />
@@ -59,7 +61,7 @@ if you see my skins without my github attached, it's NOT me
 <img width="150" height="20" alt="i-love-music" src="https://github.com/user-attachments/assets/2ed9f0d0-b11c-4f0d-90cb-a0ac24c85e2d" />
 <img width="150" height="20" alt="rocks" src="https://github.com/user-attachments/assets/5cc3e275-e0b9-4f7d-be83-6dcf90066dec" />
 <img width="150" height="20" alt="hazbinfan" src="https://github.com/user-attachments/assets/7899762f-ea5b-4de1-aa3c-e2d0f97e593e" />
-<img width="150" height="20" alt="freak" src="https://github.com/user-attachments/assets/f3ca0500-4275-427f-8849-f3c17ac5eadf" />
+<img width="150" height="20" alt="xfiles" src="https://github.com/user-attachments/assets/0dcaeae6-03fb-4549-8219-a710707a42dd" />
 <img width="150" height="20" alt="buggn" src="https://github.com/user-attachments/assets/5e9238cc-f917-4a97-a348-ff8397b0e355" />
 <img width="150" height="20" alt="sanssweep" src="https://github.com/user-attachments/assets/3a8f7b44-e8db-44fe-b306-8aa350a9d509" />
 <img width="150" height="20" alt="w15" src="https://github.com/user-attachments/assets/b6c1fb6b-3095-4c6f-a466-794cba1bc179" />
@@ -96,13 +98,7 @@ if you see my skins without my github attached, it's NOT me
 <img width="150" height="20" alt="tumblr_againstfaith_187867841879_04" src="https://github.com/user-attachments/assets/fb32b72d-7f27-4aef-8179-a115abce286d" />
 <img width="150" height="20" alt="67" src="https://github.com/user-attachments/assets/0126fc1c-766b-48d2-9d72-3e24d3a0e43a" />
 <img width="150" height="20" alt="reallife" src="https://github.com/user-attachments/assets/128e2341-e079-40dd-a57b-f3ee44da2d98" />
-
-
-
 <img width="150" height="30" alt="surviving_the_horrors" src="https://github.com/user-attachments/assets/d74dfcd4-001e-44d0-84dd-8b4617e913e6" />
-<img width="250" height="34" alt="creepy" src="https://github.com/user-attachments/assets/0a28cba8-a51e-4d94-9f0f-1139029f6f31" />
-<img width="300" height="40" alt="0190-hittingfloor" src="https://github.com/user-attachments/assets/3bb8b2a2-7d59-4c08-94b9-4d1334e5d392" />
-
 
 
 
