@@ -30,6 +30,8 @@ henlo :p
 
 i sit in pony town mainly while doing something offtab, sort of body doubling? so feel free to sit next to me anytime!
 
+^ c+h always welcome
+
 not really talkative
 
 if you see my skins without my github attached, it's not me
