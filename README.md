@@ -40,13 +40,10 @@ if you see my skins without my github attached, it's not me
 
 <br>
 <br>
-<br>
-<br>
 
 
 <img width="150" height="20" alt="b20" src="https://github.com/user-attachments/assets/5178e01e-280d-43ec-9d5c-95fc6e64519e" />
 <img width="150" height="20" alt="1307046nu61zoi4zz" src="https://github.com/user-attachments/assets/cc037bff-fe5e-4e15-a32d-f953d0d93c27" />
-
 <img width="150" height="20" alt="blnk-13" src="https://github.com/user-attachments/assets/531e6301-8a7e-4b4a-812b-92b609328ea6" />
 <img width="150" height="20" alt="undertale" src="https://github.com/user-attachments/assets/6aadad0c-e0fb-4bd9-bea7-116335ad3c3d" />
 <img width="124" height="25" alt="nyeh-heh-heh" src="https://github.com/user-attachments/assets/ce2348d8-c701-436a-9f92-2f77e12702dd" />
@@ -72,8 +69,6 @@ if you see my skins without my github attached, it's not me
 <img width="150" height="20" alt="x55" src="https://github.com/user-attachments/assets/0fe3baa7-358c-4c6b-9681-f2c17a650b33" />
 <img width="150" height="20" alt="67" src="https://github.com/user-attachments/assets/0126fc1c-766b-48d2-9d72-3e24d3a0e43a" />
 <img width="150" height="20" alt="reallife" src="https://github.com/user-attachments/assets/128e2341-e079-40dd-a57b-f3ee44da2d98" />
-
-
 <img width="150" height="20" alt="v13" src="https://github.com/user-attachments/assets/dab69a6c-16bd-472b-8f73-7d2d6749730d" />
 <img width="150" height="20" alt="v51" src="https://github.com/user-attachments/assets/7b3cf92a-40ff-4155-b096-3998897b618c" />
 <img width="150" height="20" alt="g33" src="https://github.com/user-attachments/assets/8faa8e72-bc9d-48e9-afd7-81b5f0a09523" />
@@ -88,6 +83,5 @@ if you see my skins without my github attached, it's not me
 <img width="150" height="20" alt="0134-fluttershy" src="https://github.com/user-attachments/assets/0e677a59-03f9-4ebd-a87b-8030bf13fd3c" />
 <img width="150" height="20" alt="0106-vicioussmiley" src="https://github.com/user-attachments/assets/5d9a6242-c80f-4330-a4ef-5cdefe4f8e3d" />
 <img width="150" height="20" alt="536764x7k3dpib5i" src="https://github.com/user-attachments/assets/e5909fec-c814-4b90-9681-a1f3655a34c1" />
-
 <img width="150" height="20" alt="tumblr_9e8174267b27832aac0245567ae07c30_891e4915_250" src="https://github.com/user-attachments/assets/82bbd2e5-b5a2-424e-90b4-645105d0d4a7" />
 <img width="150" height="20" alt="Tumblr-l-143074547561512" src="https://github.com/user-attachments/assets/72d304ae-30d6-447b-bbfd-b9fb34b77f41" />
