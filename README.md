@@ -41,10 +41,8 @@ if you see my skins without my github attached, it's not me
 <br>
 <br>
 
-
-<img width="150" height="20" alt="b20" src="https://github.com/user-attachments/assets/5178e01e-280d-43ec-9d5c-95fc6e64519e" />
-<img width="150" height="20" alt="1307046nu61zoi4zz" src="https://github.com/user-attachments/assets/cc037bff-fe5e-4e15-a32d-f953d0d93c27" />
 <img width="150" height="20" alt="blnk-13" src="https://github.com/user-attachments/assets/531e6301-8a7e-4b4a-812b-92b609328ea6" />
+<img width="150" height="20" alt="1307046nu61zoi4zz" src="https://github.com/user-attachments/assets/cc037bff-fe5e-4e15-a32d-f953d0d93c27" />
 <img width="150" height="20" alt="undertale" src="https://github.com/user-attachments/assets/6aadad0c-e0fb-4bd9-bea7-116335ad3c3d" />
 <img width="124" height="25" alt="nyeh-heh-heh" src="https://github.com/user-attachments/assets/ce2348d8-c701-436a-9f92-2f77e12702dd" />
 <img width="150" height="20" alt="stargazer" src="https://github.com/user-attachments/assets/dbea4a91-534c-4932-a7b7-766053c581ad" />
