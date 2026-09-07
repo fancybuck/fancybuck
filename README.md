@@ -28,9 +28,9 @@
 
 henlo :p
 
-i sit in pony town mainly while doing something offtab, sort of body doubling? so feel free to sit next to me anytime!
+i sit in pony town mainly while doing something offtab, so w2i
 
-^ [c+h always welcome]
+c+h always welcome!
 
 not really talkative
 
