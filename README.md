@@ -83,3 +83,7 @@ if you see my skins without my github attached, it's not me
 <img width="150" height="20" alt="536764x7k3dpib5i" src="https://github.com/user-attachments/assets/e5909fec-c814-4b90-9681-a1f3655a34c1" />
 <img width="150" height="20" alt="tumblr_9e8174267b27832aac0245567ae07c30_891e4915_250" src="https://github.com/user-attachments/assets/82bbd2e5-b5a2-424e-90b4-645105d0d4a7" />
 <img width="150" height="20" alt="Tumblr-l-143074547561512" src="https://github.com/user-attachments/assets/72d304ae-30d6-447b-bbfd-b9fb34b77f41" />
+
+<br>
+
+<h6> [this page is all over the place pardon me] </h6>
