@@ -72,7 +72,6 @@ if you see my skins without my github attached, it's not me
 <img width="150" height="20" alt="y30" src="https://github.com/user-attachments/assets/6a879de8-e2b0-40e2-b3cc-1bae07358b68" />
 <img width="150" height="20" alt="money" src="https://github.com/user-attachments/assets/aa05d54c-724e-4bd0-b0fd-f9a65de0cea3" />
 <img width="150" height="20" alt="wubba_lubba" src="https://github.com/user-attachments/assets/0ca1a92a-cd70-4614-baab-6e3f8b6e6bc1" />
-<img width="150" height="20" alt="a50" src="https://github.com/user-attachments/assets/909f86f2-af19-442d-8199-3e98372f279f" />
 <img width="150" height="20" alt="d24" src="https://github.com/user-attachments/assets/4fd1f175-67de-4cf0-acfe-1230056bb000" />
 <img width="150" height="20" alt="d52" src="https://github.com/user-attachments/assets/d6dfa77f-1ae2-4b6a-b8c3-ef696095fcef" />
 <img width="150" height="20" alt="goodieblink (29)" src="https://github.com/user-attachments/assets/a8950dce-b588-4e2b-a59a-40b83067f927" />
