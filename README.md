@@ -51,7 +51,6 @@ if you see my skins without my github attached, it's not me
 <img width="150" height="20" alt="big-shot" src="https://github.com/user-attachments/assets/35f137f4-b1b8-4818-ab47-0dbaf69e8461" />
 <img width="150" height="20" alt="musicislife" src="https://github.com/user-attachments/assets/f636b517-af0e-49b9-beb3-e68a5146fef7" />
 <img width="150" height="20" alt="rocks" src="https://github.com/user-attachments/assets/5cc3e275-e0b9-4f7d-be83-6dcf90066dec" />
-<img width="150" height="20" alt="hazbinfan" src="https://github.com/user-attachments/assets/7899762f-ea5b-4de1-aa3c-e2d0f97e593e" />
 <img width="150" height="20" alt="hazbin_loserbaby" src="https://github.com/user-attachments/assets/0903fc84-5443-417e-9639-3deba88edc85" />
 <img width="150" height="20" alt="w15" src="https://github.com/user-attachments/assets/b6c1fb6b-3095-4c6f-a466-794cba1bc179" />
 <img width="150" height="20" alt="c64" src="https://github.com/user-attachments/assets/e33271ec-0a4e-4dc5-9ac0-3e52927b2f0c" />
