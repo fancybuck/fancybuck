@@ -84,4 +84,4 @@ if you see my skins without my github attached, it's not me
 
 <br>
 
-<h6> [this page is all over the place pardon me] </h6>
+
